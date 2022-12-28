@@ -9,7 +9,7 @@ Skills: REACT / JS / HTML / CSS
 - 🌱 I’m currently learning Reactjs 
 - 📫 How to reach me: ankits745@gmail.com 
 - 😄 Pronouns: He/Him 
-- ⚡ Fun fact: Icebreaker 
+- ⚡ Fun fact: Mechanic cum Coder 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ankits-svg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ankit-sharma-b324a8107/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/ankits-svg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](ankits-svg.github.io)  
