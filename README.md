@@ -1,25 +1,28 @@
-                                                   Hi there 👋, my name is Ankit Sharma
-                                              A multidisciplinary Full-Stack Web Developer from India
-![A multidisciplinary Full-Stack Developer from India](https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2020/07/CDG_blog_post_image_08.jpg)
+                                          <h1 align="center">Hi 👋, I'm Ankit Sharma</h1>
+                                    <h3 align="center">A passionate full Stack Web developer.</h3>
 
-                                      A Mechanical Engineer from India who loves creating and exploring new things.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankits-svg&label=Profile%20views&color=0e75b6&style=flat" alt="ankits-svg" /> </p>
 
-Skills: REACT / JS / HTML / CSS
+- 🌱 I’m currently learning **React-Redux**
 
-- 🌱 I’m currently learning Reactjs 
-- 📫 How to reach me: ankits745@gmail.com 
-- 😄 Pronouns: He/Him 
-- ⚡ Fun fact: Icebreaker 
+- 👨‍💻 All of my projects are available at [ankits-svg.github.io](ankits-svg.github.io)
 
+- 💬 Ask me about **React | React-Redux**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ankits-svg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ankit-sharma-b324a8107/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/ankits-svg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](ankits-svg.github.io)  
+- 📫 How to reach me **ankits745@gmail.com**
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1M85yN5EJ6L-yrn1JrZu6gO9pk05lOQi-/view?usp=share_link](https://drive.google.com/file/d/1M85yN5EJ6L-yrn1JrZu6gO9pk05lOQi-/view?usp=share_link)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ankits-svg)](https://github.com/ryo-ma/github-profile-trophy)
+- ⚡ Fun fact **Love to talk on Astrology**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ankits-svg&show_icons=true)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ankit-sharma-b324a8107/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankit-sharma-b324a8107/" height="30" width="40" /></a>
+</p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ankits-svg)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
 
-![Profile views](https://gpvc.arturio.dev/ankits-svg)  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankits-svg&show_icons=true&locale=en&layout=compact" alt="ankits-svg" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankits-svg&" alt="ankits-svg" /></p>
