@@ -1,15 +1,15 @@
                                           <h1 align="center">Hi 👋, I'm Ankit Sharma</h1>
-                                    <h3 align="center">A passionate full Stack Web developer.</h3>
+                                    <h2 align="center">A passionate full Stack Web developer.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankits-svg&label=Profile%20views&color=0e75b6&style=flat" alt="ankits-svg" /> </p>
 
-- 🌱 I’m currently learning **React-Redux**
+- 🌱 I’m currently learning.... **React-Redux**
 
-- 👨‍💻 All of my projects are available at ([ankits-svg.github.io](https://ankits-svg.github.io/))
+- 👨‍💻 All of my projects are available at.... [ankits-svg.github.io](https://ankits-svg.github.io/)
 
-- 💬 Ask me about **React | React-Redux**
+- 💬 Ask me about.... **React | React-Redux**
 
-- 📫 How to reach me **ankits745@gmail.com**
+- 📫 How to reach me....  **ankits745@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1M85yN5EJ6L-yrn1JrZu6gO9pk05lOQi-/view?usp=share_link](https://drive.google.com/file/d/1M85yN5EJ6L-yrn1JrZu6gO9pk05lOQi-/view?usp=share_link)
 
