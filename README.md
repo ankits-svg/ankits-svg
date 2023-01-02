@@ -1,5 +1,5 @@
                                                    Hi there 👋, my name is Ankit Sharma
-                                              A multidisciplinary Full-Stack Developer from India
+                                              A multidisciplinary Full-Stack Web Developer from India
 ![A multidisciplinary Full-Stack Developer from India](https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2020/07/CDG_blog_post_image_08.jpg)
 
                                       A Mechanical Engineer from India who loves creating and exploring new things.
