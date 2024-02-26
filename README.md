@@ -6,10 +6,10 @@
 # **<div align="center">I'm Ankit, a full-stack web developer 🚀</div>**  
   
 
-- 🔭 I’m currently working on [Gen AI Project (Quirky Cocoon)](https://github.com/ankits-svg/QuirkyCocoon)
+- 🔭 I’m currently learning on Azure | php
   
 
-- 🌱 I’m currently learning Gen AI | Django | Typescript | Angular  
+- 🌱 I’m currently learning Azure | Gen AI | Django | Typescript | Angular  
   
 
 - ❓ Ask me about anything related to **MERN stack** and related technologies  
