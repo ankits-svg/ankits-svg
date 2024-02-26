@@ -9,9 +9,6 @@
 - 🔭 I’m currently learning on Azure | php
   
 
-- 🌱 I’m currently learning Azure | Gen AI | Django | Typescript | Angular  
-  
-
 - ❓ Ask me about anything related to **MERN stack** and related technologies  
   
 
